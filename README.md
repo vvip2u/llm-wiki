@@ -116,8 +116,8 @@ skills:
 
 ## 版本
 
-- **当前版本**: 3.0.0
-- **作者**: Hermes Agent (based on work by Lewis Liu / lylewis@outlook.com)
+- **当前版本**: 1.0.0
+- **作者**: Hermes Agent (based on work by Jake Kim / vvip2u@126.com)
 - **许可证**: MIT
 - **分类**: research
 
